@@ -17,3 +17,8 @@ work flow is listed as below:
 4. Save the resulting model into Elasticsearch.
 
 5. Using Elasticsearch queries and a custom vector scoring plugin, generate some example recommendations. The Movie Database API is used to display movie poster images for the recommended movie.
+
+
+
+### Desired result:
+<a href="http://tinypic.com?ref=1yv9kh" target="_blank"><img src="http://i65.tinypic.com/1yv9kh.png" border="0" alt="Image and video hosting by TinyPic"></a>
