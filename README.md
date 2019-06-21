@@ -8,6 +8,8 @@ Movie recommender engine in Spark/Elastic Search
 work is inspired by https://developer.ibm.com/patterns/build-a-recommender-with-apache-spark-and-elasticsearch/
 *** 
 work flow is listed as below:
+The required data for the project is in data.zip file under the same repo
+
 1. Load the movie dataset into Spark.
 
 2. Use Spark DataFrame operations to clean up the dataset and load it into Elasticsearch.
